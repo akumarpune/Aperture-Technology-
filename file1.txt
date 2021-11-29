@@ -1,1 +1,2 @@
+This is from feature branch "feature-1"
 Adding text in feature branch feature-2. This is from dveloper-2.
